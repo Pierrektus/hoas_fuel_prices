@@ -1,0 +1,6 @@
+{
+    "name": "My Fuel price monitor",
+    "content_in_root": true,
+    "filename": "fuel_prices.py",
+    "country": ["DE"]
+  }
