@@ -1,0 +1,1 @@
+DOMAIN = "fuel_prices"
